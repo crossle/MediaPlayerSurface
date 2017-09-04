@@ -1,7 +1,0 @@
-#Mon Sep 04 12:09:47 CST 2017
-base.0=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50948ac9123aed4bfc01510244e541262f3f8b27
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f0e0ec867cf2358cdbfbe055c453b1a8e059f/classes.dex
-base.1=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f0e0ec867cf2358cdbfbe055c453b1a8e059f
-file.0=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50948ac9123aed4bfc01510244e541262f3f8b27/classes.dex
