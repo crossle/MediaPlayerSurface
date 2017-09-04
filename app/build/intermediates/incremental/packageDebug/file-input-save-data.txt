@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Sep 04 12:09:47 CST 2017
+2.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f0e0ec867cf2358cdbfbe055c453b1a8e059f
+5.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/raw/testvideo.3gp
+2.set=DEX
+4.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50948ac9123aed4bfc01510244e541262f3f8b27/classes.dex
+5.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d4f0e0ec867cf2358cdbfbe055c453b1a8e059f/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50948ac9123aed4bfc01510244e541262f3f8b27
+3.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+0.set=DEX

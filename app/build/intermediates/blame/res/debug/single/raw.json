@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/crossle/Code/Android/MediaPlayerSurface1/app/build/intermediates/res/merged/debug/raw/testvideo.3gp",
+        "source": "/Users/crossle/Code/Android/MediaPlayerSurface1/app/src/main/res/raw/testvideo.3gp"
+    },
+    {
+        "merged": "/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/merged/debug/raw/testvideo.3gp",
+        "source": "/Users/crossle/Code/Android/MediaPlayerSurface/app/src/main/res/raw/testvideo.3gp"
+    }
+]

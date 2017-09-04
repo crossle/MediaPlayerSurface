@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Sep 04 12:09:44 CST 2017
+2.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+0.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/res/raw/testvideo.3gp
+3.set=ANDROID_RESOURCE
+1.base=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE

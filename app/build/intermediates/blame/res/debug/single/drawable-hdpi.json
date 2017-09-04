@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/crossle/Code/Android/MediaPlayerSurface1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/crossle/Code/Android/MediaPlayerSurface1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/crossle/Code/Android/MediaPlayerSurface/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/crossle/Code/Android/MediaPlayerSurface/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
